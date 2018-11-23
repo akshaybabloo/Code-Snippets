@@ -1,3 +1,3 @@
-# Python-Snippets
+# Code Snippets
 
-Python 3 Code Snippets
+Some helper codes.
